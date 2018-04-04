@@ -1,0 +1,58 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+nav ul{
+	list-style: none;
+	text-align: right;
+}
+
+nav li{
+	display: inline;
+}
+
+nav{
+	background-color: #333
+}
+
+nav a{
+	color: white;
+	text-decoration: none;
+	font-size: 18px;
+	padding-right:15px;
+}
+
+.main-header{
+	background-color: coral;
+	color: white;
+	text-align: center;
+}
+
+#showcase{
+	background-image: url(../showcase.jpeg);
+	color: white;
+}
+
+#container{
+	width: 80%;
+	margin:auto;
+}
+
+#main{
+	width:70%;
+	float: left;
+}
+
+#aside{
+	width: 30%
+	float: right;
+}
+
+.main-footer{
+	background-color: #333;
+	color: white;
+	position: absolute;
+	width: 100%;
+	bottom:0;
+}
