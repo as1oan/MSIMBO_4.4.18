@@ -1,4 +1,4 @@
-/*comments 4.4.18*/
+/*aes comments 4.4.18*/
 
 /*container 4.4.18*/
 .container{
@@ -13,4 +13,26 @@ body{
 /*nav 4.4.18*/
 nav{
 
+}
+.sw-with{
+	width:100%;
+	color: white;
+}
+.sw-no-underline: hover{
+	text-decoration: none;
+}
+
+/*profile navbar4.5.18*/
+.navbar-navbar-dark-bg-primary{
+
+}
+.navbar-brand{te
+
+}
+
+.sw-black
+
+.sw-absolute-right{
+	position: absolute;
+	right: 15px;
 }
